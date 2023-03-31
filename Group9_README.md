@@ -82,6 +82,6 @@ This query lists out the first and last name of employees with the job title “
 
 This query shows the number of employees that get off work before 5PM in GA, SC, FL, and AL. This is useful for restaurants who need to pull regional employees who work the early shift or get off before the dinner shift. This information lets the manager know if they are overstaffed during the morning shift or help them understand what shift appeals more to their staff.
 
-## Query Metrics
+## Query Matrices
 
 ![Logo](https://github.com/rishitha-cheemarla/rishitha/raw/main/query%20metric.png)
